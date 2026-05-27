@@ -1,4 +1,4 @@
-# PeIBSUM
+# Peibsum
 ## Description
 This here is another project for the "Marisiensis" competition hosted by my university. It is a recurrent neural network that trains on certain patients' ECG analyses and is able to tell which patient took any new analysis that it is given.
 ## How I made it
